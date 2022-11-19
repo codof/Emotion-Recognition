@@ -1,10 +1,5 @@
 # Speech Emotion Recognition
 
-
-![image](Images/audio_app.png)
-
-The aim of this section is to explore speech emotion recognition techniques from an audio recording.
-
 ## Data
 
 The data set used for training is the **Ryerson Audio-Visual Database of Emotional Speech and Song**: https://zenodo.org/record/1188976#.XA48aC17Q1J
